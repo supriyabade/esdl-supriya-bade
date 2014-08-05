@@ -20,6 +20,5 @@ cout<<"Good Morning";
 sum s;
 int d=s.add();
 cout<<"c="<<d;
-cout<<"Hello";
 
 }
